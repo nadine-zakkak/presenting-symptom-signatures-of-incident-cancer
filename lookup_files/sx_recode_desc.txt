@@ -1,0 +1,84 @@
+sx	sx_desc
+1	Distension
+2	Abdominal pain (NOS)
+3	Upper abdominal pain
+4	Lower abdominal pain
+5	Pelvic pain
+6	Change in bowel habit
+7	Diarrhoea
+8	Constipation
+9	Dyspepsia
+10	Dysphagia
+11	Nausea and/or vomiting
+12	Haematemesis
+13	Rectal bleeding
+14	Gastroesophageal reflux
+15	Jaundice
+16	"Bruising, bleeding or petechiae"
+17	Haemoptysis
+18	Haematuria
+19	Post-menopausal bleeding
+20	Vulval bleeding
+21	Other vaginal bleeding
+22	Epistaxis
+23	Vaginal discharge
+24	Vaginal mass
+25	Vulval mass
+26	Vulval ulceration
+27	Anal mass
+28	Axillary lump/mass
+29	Breast lump/mass
+30	Lip/oral cavity/tongue lump/mass
+31	Unexplained lump suspicious of sarcoma
+32	Neck lump/mass
+33	Thyroid lump/mass
+34	Lymphadenopathy (generalised)
+35	Lymphadenopathy (localised)
+36	Prog/sub-acute loss of central neuro funct
+37	Fit/seizure
+38	Headache
+39	Visual disturbance or loss
+40	Lymph node pain with alcohol
+41	Back pain
+42	Bone pain
+43	Chest pain
+44	Breast pain
+45	Loin pain
+46	Renal colic
+47	Chest infection
+48	Cough
+49	Hoarseness
+50	Dyspnoea
+51	Stridor
+52	Sore throat
+53	Fracture
+54	Nipple changes
+55	Leukoplakia
+56	Pallor
+57	Ulceration
+58	Lip/oral cavity/tongue ulcer
+59	Pruritus
+60	Abnormal mole
+61	Non-pigmented lesion
+62	Lesions suspicious of BCC
+63	Clubbing
+64	Nipple discharge
+65	Dysuria
+66	Erectile dysfunction
+67	Testicular lump
+68	Testicular pain
+69	Urinary tract infection
+70	"LUTS (nocturia, frequency, hesitancy, urgency, retention)"
+71	Penile ulceration
+72	Loss of appetite
+73	Early satiety
+74	Deep vein thrombosis
+75	New onset diabetes
+76	Fatigue
+77	Fever
+78	Infection
+79	Night sweats
+80	Weight loss
+81	Other symptom
+82	N/K
+83	N/A

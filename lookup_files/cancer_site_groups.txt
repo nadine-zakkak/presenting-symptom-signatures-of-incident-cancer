@@ -1,0 +1,347 @@
+cancer_site_desc	icd10_3dig	icd10_4dig	cancer_group
+Breast	C50	C500	Breast
+Breast	C50	C501	Breast
+Breast	C50	C502	Breast
+Breast	C50	C503	Breast
+Breast	C50	C504	Breast
+Breast	C50	C505	Breast
+Breast	C50	C506	Breast
+Breast	C50	C508	Breast
+Breast	C50	C509	Breast
+CNS	C70	C700	CNS
+CNS	C70	C701	CNS
+CNS	C71	C710	CNS
+CNS	C71	C711	CNS
+CNS	C71	C712	CNS
+CNS	C71	C713	CNS
+CNS	C71	C714	CNS
+CNS	C71	C715	CNS
+CNS	C71	C716	CNS
+CNS	C71	C717	CNS
+CNS	C71	C718	CNS
+CNS	C71	C719	CNS
+CNS	C72	C720	CNS
+CNS	C72	C722	CNS
+CNS	C72	C724	CNS
+CNS	C72	C725	CNS
+CNS	C72	C728	CNS
+Uterus	C54	C540	Gynaecological
+Uterus	C54	C541	Gynaecological
+Uterus	C54	C542	Gynaecological
+Uterus	C54	C543	Gynaecological
+Uterus	C55	C55	Gynaecological
+Ovary	C56	C56	Gynaecological
+Ovary	C57	C570	Gynaecological
+Ovary	C57	C571	Gynaecological
+Ovary	C57	C577	Gynaecological
+Ovary	C57	C579	Gynaecological
+Cervix	C53	C530	Gynaecological
+Cervix	C53	C531	Gynaecological
+Cervix	C53	C539	Gynaecological
+Vulva/Vagina	C51	C510	Gynaecological
+Vulva/Vagina	C51	C511	Gynaecological
+Vulva/Vagina	C51	C512	Gynaecological
+Vulva/Vagina	C51	C518	Gynaecological
+Vulva/Vagina	C51	C519	Gynaecological
+Vulva/Vagina	C52	C52	Gynaecological
+Multiple myeloma	C90	C900	Haematological
+Multiple myeloma	C90	C901	Haematological
+Multiple myeloma	C90	C902	Haematological
+Acute leukaemia	C91	C910	Haematological
+Acute leukaemia	C92	C920	Haematological
+Acute leukaemia	C92	C924	Haematological
+Acute leukaemia	C92	C925	Haematological
+Acute leukaemia	C93	C930	Haematological
+Acute leukaemia	C94	C940	Haematological
+Acute leukaemia	C94	C944	Haematological
+Acute leukaemia	C95	C950	Haematological
+Other haematological	C37	C37	Haematological
+Other haematological	C84	C840	Haematological
+Other haematological	C84	C841	Haematological
+Other haematological	C84	C844	Haematological
+Other haematological	C84	C845	Haematological
+Other haematological	C88	C880	Haematological
+Other haematological	C91	C913	Haematological
+Other haematological	C91	C914	Haematological
+Other haematological	C91	C915	Haematological
+Other haematological	C91	C917	Haematological
+Other haematological	C91	C919	Haematological
+Other haematological	C92	C921	Haematological
+Other haematological	C92	C923	Haematological
+Other haematological	C92	C927	Haematological
+Other haematological	C92	C929	Haematological
+Other haematological	C95	C959	Haematological
+Other haematological	C96	C960	Haematological
+Other haematological	C96	C961	Haematological
+Other haematological	C96	C962	Haematological
+Other haematological	C96	C963	Haematological
+Chronic lymphocytic leukaemia	C91	C911	Haematological
+Non-Hodgkin lymphoma	C82	C820	Haematological
+Non-Hodgkin lymphoma	C82	C821	Haematological
+Non-Hodgkin lymphoma	C82	C822	Haematological
+Non-Hodgkin lymphoma	C82	C829	Haematological
+Non-Hodgkin lymphoma	C83	C830	Haematological
+Non-Hodgkin lymphoma	C83	C833	Haematological
+Non-Hodgkin lymphoma	C83	C834	Haematological
+Non-Hodgkin lymphoma	C83	C835	Haematological
+Non-Hodgkin lymphoma	C83	C837	Haematological
+Non-Hodgkin lymphoma	C83	C838	Haematological
+Non-Hodgkin lymphoma	C85	C851	Haematological
+Non-Hodgkin lymphoma	C85	C857	Haematological
+Non-Hodgkin lymphoma	C85	C859	Haematological
+Hodgkin lymphoma	C81	C810	Haematological
+Hodgkin lymphoma	C81	C811	Haematological
+Hodgkin lymphoma	C81	C812	Haematological
+Hodgkin lymphoma	C81	C813	Haematological
+Hodgkin lymphoma	C81	C819	Haematological
+Thyroid	C73	C73	Head and neck
+Larynx	C32	C320	Head and neck
+Larynx	C32	C321	Head and neck
+Larynx	C32	C322	Head and neck
+Larynx	C32	C323	Head and neck
+Larynx	C32	C328	Head and neck
+Larynx	C32	C329	Head and neck
+Oropharynx	C01	C01	Head and neck
+Oropharynx	C09	C090	Head and neck
+Oropharynx	C09	C091	Head and neck
+Oropharynx	C09	C098	Head and neck
+Oropharynx	C09	C099	Head and neck
+Oropharynx	C10	C100	Head and neck
+Oropharynx	C10	C101	Head and neck
+Oropharynx	C10	C102	Head and neck
+Oropharynx	C10	C103	Head and neck
+Oropharynx	C10	C108	Head and neck
+Oropharynx	C10	C109	Head and neck
+Oral cavity	C05	C050	Head and neck
+Oral cavity	C05	C051	Head and neck
+Oral cavity	C05	C052	Head and neck
+Oral cavity	C05	C058	Head and neck
+Oral cavity	C05	C059	Head and neck
+Oral cavity	C02	C020	Head and neck
+Oral cavity	C02	C021	Head and neck
+Oral cavity	C02	C022	Head and neck
+Oral cavity	C02	C023	Head and neck
+Oral cavity	C02	C024	Head and neck
+Oral cavity	C02	C028	Head and neck
+Oral cavity	C02	C029	Head and neck
+Oral cavity	C03	C030	Head and neck
+Oral cavity	C03	C031	Head and neck
+Oral cavity	C03	C039	Head and neck
+Oral cavity	C04	C040	Head and neck
+Oral cavity	C04	C041	Head and neck
+Oral cavity	C04	C049	Head and neck
+Oral cavity	C06	C060	Head and neck
+Oral cavity	C06	C062	Head and neck
+Oral cavity	C06	C068	Head and neck
+Oral cavity	C06	C069	Head and neck
+Other head and neck	C00	C000	Head and neck
+Other head and neck	C00	C001	Head and neck
+Other head and neck	C00	C003	Head and neck
+Other head and neck	C00	C004	Head and neck
+Other head and neck	C00	C006	Head and neck
+Other head and neck	C00	C009	Head and neck
+Other head and neck	C07	C07	Head and neck
+Other head and neck	C08	C080	Head and neck
+Other head and neck	C08	C081	Head and neck
+Other head and neck	C08	C089	Head and neck
+Other head and neck	C11	C110	Head and neck
+Other head and neck	C11	C111	Head and neck
+Other head and neck	C11	C112	Head and neck
+Other head and neck	C11	C118	Head and neck
+Other head and neck	C11	C119	Head and neck
+Other head and neck	C12	C12	Head and neck
+Other head and neck	C13	C130	Head and neck
+Other head and neck	C13	C131	Head and neck
+Other head and neck	C13	C132	Head and neck
+Other head and neck	C13	C138	Head and neck
+Other head and neck	C13	C139	Head and neck
+Other head and neck	C14	C140	Head and neck
+Other head and neck	C14	C148	Head and neck
+Other head and neck	C30	C300	Head and neck
+Other head and neck	C30	C301	Head and neck
+Other head and neck	C31	C310	Head and neck
+Other head and neck	C31	C311	Head and neck
+Other head and neck	C31	C312	Head and neck
+Other head and neck	C31	C313	Head and neck
+Other head and neck	C31	C319	Head and neck
+Pancreas	C25	C250	HPB
+Pancreas	C25	C251	HPB
+Pancreas	C25	C252	HPB
+Pancreas	C25	C253	HPB
+Pancreas	C25	C254	HPB
+Pancreas	C25	C257	HPB
+Pancreas	C25	C258	HPB
+Pancreas	C25	C259	HPB
+Liver	C22	C220	HPB
+Liver	C22	C221	HPB
+Liver	C22	C223	HPB
+Liver	C22	C224	HPB
+Liver	C22	C227	HPB
+Liver	C22	C229	HPB
+Other HPB	C23	C23	HPB
+Other HPB	C24	C240	HPB
+Other HPB	C24	C241	HPB
+Other HPB	C24	C249	HPB
+Colon	C18	C180	Lower GI
+Colon	C18	C181	Lower GI
+Colon	C18	C182	Lower GI
+Colon	C18	C183	Lower GI
+Colon	C18	C184	Lower GI
+Colon	C18	C185	Lower GI
+Colon	C18	C186	Lower GI
+Colon	C18	C187	Lower GI
+Colon	C18	C188	Lower GI
+Colon	C18	C189	Lower GI
+Colon	C19	C19	Lower GI
+Rectum	C20	C20	Lower GI
+Anal	C21	C210	Lower GI
+Anal	C21	C211	Lower GI
+Anal	C21	C218	Lower GI
+Small intestine	C17	C170	Lower GI
+Small intestine	C17	C171	Lower GI
+Small intestine	C17	C172	Lower GI
+Small intestine	C17	C178	Lower GI
+Small intestine	C17	C179	Lower GI
+Ocular	C69	C690	Ocular
+Ocular	C69	C693	Ocular
+Ocular	C69	C694	Ocular
+Ocular	C69	C695	Ocular
+Ocular	C69	C699	Ocular
+Other malignant neoplasms	C26	C260	Other malignant neoplasms
+Other malignant neoplasms	C26	C261	Other malignant neoplasms
+Other malignant neoplasms	C26	C269	Other malignant neoplasms
+Other malignant neoplasms	C38	C380	Other malignant neoplasms
+Other malignant neoplasms	C38	C381	Other malignant neoplasms
+Other malignant neoplasms	C38	C383	Other malignant neoplasms
+Other malignant neoplasms	C38	C384	Other malignant neoplasms
+Other malignant neoplasms	C46	C460	Other malignant neoplasms
+Other malignant neoplasms	C46	C461	Other malignant neoplasms
+Other malignant neoplasms	C46	C463	Other malignant neoplasms
+Other malignant neoplasms	C46	C467	Other malignant neoplasms
+Other malignant neoplasms	C47	C470	Other malignant neoplasms
+Other malignant neoplasms	C47	C471	Other malignant neoplasms
+Other malignant neoplasms	C47	C472	Other malignant neoplasms
+Other malignant neoplasms	C47	C473	Other malignant neoplasms
+Other malignant neoplasms	C47	C474	Other malignant neoplasms
+Other malignant neoplasms	C47	C475	Other malignant neoplasms
+Other malignant neoplasms	C58	C58	Other malignant neoplasms
+Other malignant neoplasms	C74	C740	Other malignant neoplasms
+Other malignant neoplasms	C74	C741	Other malignant neoplasms
+Other malignant neoplasms	C74	C749	Other malignant neoplasms
+Other malignant neoplasms	C75	C750	Other malignant neoplasms
+Other malignant neoplasms	C75	C751	Other malignant neoplasms
+Other malignant neoplasms	C75	C753	Other malignant neoplasms
+Other malignant neoplasms	C75	C755	Other malignant neoplasms
+Other malignant neoplasms	C75	C759	Other malignant neoplasms
+Other malignant neoplasms	C76	C760	Other malignant neoplasms
+Other malignant neoplasms	C76	C761	Other malignant neoplasms
+Other malignant neoplasms	C76	C762	Other malignant neoplasms
+Other malignant neoplasms	C76	C763	Other malignant neoplasms
+Other malignant neoplasms	C76	C767	Other malignant neoplasms
+Prostate	C61	C61	Prostate and other male organs
+Testicular	C62	C620	Prostate and other male organs
+Testicular	C62	C621	Prostate and other male organs
+Testicular	C63	C632	Prostate and other male organs
+Penile	C60	C600	Prostate and other male organs
+Penile	C60	C601	Prostate and other male organs
+Penile	C60	C602	Prostate and other male organs
+Penile	C60	C608	Prostate and other male organs
+Penile	C60	C609	Prostate and other male organs
+Lung	C33	C33	Respiratory
+Lung	C34	C340	Respiratory
+Lung	C34	C341	Respiratory
+Lung	C34	C342	Respiratory
+Lung	C34	C343	Respiratory
+Lung	C34	C348	Respiratory
+Lung	C34	C349	Respiratory
+Mesothelioma	C45	C450	Respiratory
+Mesothelioma	C45	C451	Respiratory
+Mesothelioma	C45	C457	Respiratory
+Bone sarcoma	C40	C400	Sarcoma
+Bone sarcoma	C40	C401	Sarcoma
+Bone sarcoma	C40	C402	Sarcoma
+Bone sarcoma	C40	C403	Sarcoma
+Bone sarcoma	C40	C409	Sarcoma
+Bone sarcoma	C41	C410	Sarcoma
+Bone sarcoma	C41	C411	Sarcoma
+Bone sarcoma	C41	C412	Sarcoma
+Bone sarcoma	C41	C413	Sarcoma
+Bone sarcoma	C41	C414	Sarcoma
+Connective and soft tissue sarcoma	C48	C480	Sarcoma
+Connective and soft tissue sarcoma	C48	C481	Sarcoma
+Connective and soft tissue sarcoma	C48	C482	Sarcoma
+Connective and soft tissue sarcoma	C48	C488	Sarcoma
+Connective and soft tissue sarcoma	C49	C490	Sarcoma
+Connective and soft tissue sarcoma	C49	C491	Sarcoma
+Connective and soft tissue sarcoma	C49	C492	Sarcoma
+Connective and soft tissue sarcoma	C49	C493	Sarcoma
+Connective and soft tissue sarcoma	C49	C494	Sarcoma
+Connective and soft tissue sarcoma	C49	C495	Sarcoma
+Connective and soft tissue sarcoma	C49	C496	Sarcoma
+Connective and soft tissue sarcoma	C49	C499	Sarcoma
+Melanoma	C43	C430	Skin
+Melanoma	C43	C431	Skin
+Melanoma	C43	C432	Skin
+Melanoma	C43	C433	Skin
+Melanoma	C43	C434	Skin
+Melanoma	C43	C435	Skin
+Melanoma	C43	C436	Skin
+Melanoma	C43	C437	Skin
+Melanoma	C43	C438	Skin
+Melanoma	C43	C439	Skin
+Unknown primary	C77	C770	Unknown primary
+Unknown primary	C77	C771	Unknown primary
+Unknown primary	C77	C772	Unknown primary
+Unknown primary	C77	C773	Unknown primary
+Unknown primary	C77	C774	Unknown primary
+Unknown primary	C77	C778	Unknown primary
+Unknown primary	C77	C779	Unknown primary
+Unknown primary	C78	C780	Unknown primary
+Unknown primary	C78	C781	Unknown primary
+Unknown primary	C78	C782	Unknown primary
+Unknown primary	C78	C784	Unknown primary
+Unknown primary	C78	C785	Unknown primary
+Unknown primary	C78	C786	Unknown primary
+Unknown primary	C78	C787	Unknown primary
+Unknown primary	C78	C788	Unknown primary
+Unknown primary	C79	C791	Unknown primary
+Unknown primary	C79	C792	Unknown primary
+Unknown primary	C79	C793	Unknown primary
+Unknown primary	C79	C794	Unknown primary
+Unknown primary	C79	C795	Unknown primary
+Unknown primary	C79	C796	Unknown primary
+Unknown primary	C79	C797	Unknown primary
+Unknown primary	C79	C798	Unknown primary
+Unknown primary	C80	C80	Unknown primary
+Stomach	C16	C160	Upper GI
+Stomach	C16	C161	Upper GI
+Stomach	C16	C162	Upper GI
+Stomach	C16	C163	Upper GI
+Stomach	C16	C164	Upper GI
+Stomach	C16	C165	Upper GI
+Stomach	C16	C166	Upper GI
+Stomach	C16	C168	Upper GI
+Stomach	C16	C169	Upper GI
+Oesophagus	C15	C150	Upper GI
+Oesophagus	C15	C151	Upper GI
+Oesophagus	C15	C152	Upper GI
+Oesophagus	C15	C153	Upper GI
+Oesophagus	C15	C154	Upper GI
+Oesophagus	C15	C155	Upper GI
+Oesophagus	C15	C158	Upper GI
+Oesophagus	C15	C159	Upper GI
+Bladder	C67	C670	Urological
+Bladder	C67	C671	Urological
+Bladder	C67	C672	Urological
+Bladder	C67	C673	Urological
+Bladder	C67	C674	Urological
+Bladder	C67	C675	Urological
+Bladder	C67	C676	Urological
+Bladder	C67	C677	Urological
+Bladder	C67	C678	Urological
+Bladder	C67	C679	Urological
+Kidney	C64	C64	Urological
+Ureteric and other urinary	C65	C65	Urological
+Ureteric and other urinary	C66	C66	Urological
+Ureteric and other urinary	C68	C680	Urological
+Ureteric and other urinary	C68	C689	Urological

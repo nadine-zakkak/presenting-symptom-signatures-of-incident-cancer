@@ -1,0 +1,84 @@
+symptom symptom_group
+"Abdominal pain (NOS)" "Lower abdominal"
+"Rectal bleeding" "Lower abdominal"
+"Change in bowel habit" "Lower abdominal"
+"Loss of appetite" "Upper abdominal"
+"Nausea and/or vomiting" "Upper abdominal"
+"Upper abdominal pain" "Upper abdominal"
+Diarrhoea "Lower abdominal"
+"Lower abdominal pain" "Lower abdominal"
+Distension "Lower abdominal"
+Dysphagia "Upper abdominal"
+Constipation "Lower abdominal"
+Dyspepsia "Upper abdominal"
+Jaundice "Upper abdominal"
+"Pelvic pain" "Lower abdominal"
+"Gastroesophageal reflux" "Upper abdominal"
+"Early satiety" "Upper abdominal"
+Haematemesis "Upper abdominal"
+"Post-menopausal bleeding" "Female specific"
+"Other vaginal bleeding" "Female specific"
+"Vaginal discharge" "Female specific"
+"Vulval mass" "Female specific"
+"Vulval bleeding" "Female specific"
+"Vulval ulceration" "Female specific"
+"Vaginal mass" "Female specific"
+"Testicular lump" "Male specific"
+"Erectile dysfunction" "Male specific"
+"Testicular pain" "Male specific"
+"Penile ulceration" "Male specific"
+N/A "None recorded"
+"Weight loss" Non-specific
+"Other symptom" Non-specific
+Fatigue Non-specific
+"Back pain" Musculoskeletal
+"Neck lump/mass" "Lump/mass/lymph node"
+N/K "None recorded"
+"Bone pain" Musculoskeletal
+"Prog/sub-acute loss of central neuro funct" "Central nervous system"
+Headache "Central nervous system"
+"Night sweats" Non-specific
+"Lip/oral cavity/tongue lump/mass" Ulceration
+Fever Non-specific
+"Loin pain" Urological
+"Non-pigmented lesion" "Skin Lesion"
+"Axillary lump/mass" "Breast Symptoms"
+"Lesions suspicious of BCC" "Skin Lesion"
+"Unexplained lump suspicious of sarcoma" "Lump/mass/lymph node"
+Ulceration Ulceration
+Infection Non-specific
+Fit/seizure "Central nervous system"
+"Lip/oral cavity/tongue ulcer" Ulceration
+Pallor Non-specific
+"Bruising, bleeding or petechiae" Non-specific
+"Visual disturbance or loss" "Central nervous system"
+"Deep vein thrombosis" Non-specific
+Fracture Musculoskeletal
+"Lymphadenopathy (generalised)" "Lump/mass/lymph node"
+"New onset diabetes" "Upper abdominal"
+Leukoplakia Ulceration
+"Lymph node pain with alcohol" "Lump/mass/lymph node"
+Cough Respiratory
+Dyspnoea Respiratory
+"Chest pain" Respiratory
+"Chest infection" Respiratory
+Haemoptysis Respiratory
+"Sore throat" Respiratory
+Hoarseness Respiratory
+Epistaxis Non-specific
+Clubbing Respiratory
+Stridor Respiratory
+"Breast lump/mass" "Breast Symptoms"
+"Abnormal mole" "Skin Lesion"
+"Breast pain" "Breast Symptoms"
+"Nipple changes" "Breast Symptoms"
+"Nipple discharge" "Breast Symptoms"
+"Thyroid lump/mass" "Lump/mass/lymph node"
+"Anal mass" "Lump/mass/lymph node"
+"LUTS (nocturia, frequency, hesitancy, urgency, retention)" Urological
+Haematuria Urological
+Dysuria Urological
+"Urinary tract infection" Urological
+"Renal colic" Urological
+"Lymphadenopathy (localised)" "Lump/mass/lymph node"
+Pruritus Non-specific

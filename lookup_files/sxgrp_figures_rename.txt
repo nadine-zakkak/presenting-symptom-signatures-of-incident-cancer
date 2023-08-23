@@ -1,0 +1,15 @@
+Old	New
+None recorded	None
+Breast Symptoms	Breast
+Urological	Urological
+Non-specific	Non-specific
+Respiratory	Respiratory
+Upper abdominal	Upper abdominal
+Lower abdominal	Lower abdominal
+Skin Lesion	Skin Lesion
+Musculoskeletal	MSK
+Lump/mass/lymph node	Lump/Lymph node
+Female specific	Female specific
+Central nervous system	CNS
+Male specific	Male specific
+Ulceration	Ulceration

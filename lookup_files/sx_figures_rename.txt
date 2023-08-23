@@ -1,0 +1,84 @@
+New	Original
+N/A	N/A
+N/K	N/K
+Breast lump/mass	Breast lump/mass
+Breast pain	Breast pain
+Nipple changes	Nipple changes
+Axillary lump/mass	Axillary lump/mass
+Nipple discharge	Nipple discharge
+LUTS	"LUTS (nocturia, frequency, hesitancy, urgency, retention)"
+Haematuria	Haematuria
+Dysuria	Dysuria
+UTI	Urinary tract infection
+Loin pain	Loin pain
+Renal colic	Renal colic
+Weight loss	Weight loss
+Other symptom	Other symptom
+Fatigue	Fatigue
+Night sweats	Night sweats
+Pruritus	Pruritus
+Fever	Fever
+Infection	Infection
+Pallor	Pallor
+Bruising/petechiae	"Bruising, bleeding or petechiae"
+DVT	Deep vein thrombosis
+Epistaxis	Epistaxis
+Cough	Cough
+Dyspnoea	Dyspnoea
+Chest pain	Chest pain
+Chest infection	Chest infection
+Haemoptysis	Haemoptysis
+Sore throat	Sore throat
+Hoarseness	Hoarseness
+Clubbing	Clubbing
+Stridor	Stridor
+Abdominal pain (NOS)	Abdominal pain (NOS)
+Rectal bleeding	Rectal bleeding
+CIBH	Change in bowel habit
+Loss of appetite	Loss of appetite
+Nausea/vomiting	Nausea and/or vomiting
+Upper abdo pain	Upper abdominal pain
+Diarrhoea	Diarrhoea
+Lower abdo pain	Lower abdominal pain
+Distension	Distension
+Dysphagia	Dysphagia
+Constipation	Constipation
+Dyspepsia	Dyspepsia
+Jaundice	Jaundice
+Pelvic pain	Pelvic pain
+Reflux	Gastroesophageal reflux
+Early satiety	Early satiety
+Haematemesis	Haematemesis
+New onset diabetes	New onset diabetes
+Abnormal mole	Abnormal mole
+Non-pigmented lesion	Non-pigmented lesion
+BCC-like lesion	Lesions suspicious of BCC
+Back pain	Back pain
+Bone pain	Bone pain
+Fracture	Fracture
+Neck lump/mass	Neck lump/mass
+Lymphadenopathy (local)	Lymphadenopathy (localised)
+Sarcomatous lump	Unexplained lump suspicious of sarcoma
+Thyroid lump/mass	Thyroid lump/mass
+Anal mass	Anal mass
+Lymphadenopathy (general)	Lymphadenopathy (generalised)
+LN pain with alcohol	Lymph node pain with alcohol
+Post-menopausal bleeding	Post-menopausal bleeding
+Other vaginal bleeding	Other vaginal bleeding
+Vaginal discharge	Vaginal discharge
+Vulval mass	Vulval mass
+Vulval bleeding	Vulval bleeding
+Vulval ulcer	Vulval ulceration
+Vaginal mass	Vaginal mass
+Loss of central neuro funct	Prog/sub-acute loss of central neuro funct
+Headache	Headache
+Seizure	Fit/seizure
+Visual loss	Visual disturbance or loss
+Testicular lump	Testicular lump
+Erectile dysfunction	Erectile dysfunction
+Testicular pain	Testicular pain
+Penile ulcer	Penile ulceration
+Oral lump/mass	Lip/oral cavity/tongue lump/mass
+Ulceration	Ulceration
+Oral ulcer	Lip/oral cavity/tongue ulcer
+Leukoplakia	Leukoplakia
