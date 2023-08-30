@@ -1,4 +1,4 @@
-# Presenting symptom signatures of incident-cancer
+# Presenting symptom signatures of incident cancer
 
 # What is this for
 The purpose of this repository is to share pre-processing and analysis code and final results for the study:  
