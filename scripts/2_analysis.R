@@ -16,7 +16,7 @@ pacman::p_load(readr, plyr, dplyr, ggplot2, tidyr, fastDummies,
 
 # Load data into R ------
 # data <- readRDS("/path/to/data/single_tumour_wide.RDS")
-# data_long <- readRDS("/path/to/data/data_long.RDS")
+# data_long <- readRDS("/path/to/data/single_tumour_long.RDS")
 # cohort <- readRDS("/path/to/data/cohort.RDS")
 cancer_groups <- read.delim("./lookup_files/cancer_site_groups.txt") 
 symptom_groups <- read.delim("./lookup_files/symptom_groups.txt", sep=" ")
@@ -208,9 +208,9 @@ site_sex_wide |>
   select(-c(n_1, n_2, prop_1,prop_2, total_n)) |> 
   gt() |>
   cols_move_to_end(c(`ICD-10 (4 dig)`, `ICD-10 (3 dig)`)) |>
-  gtsave(paste0(output_dir, "site_sex_freq_wide.rtf"))
+  gtsave(paste0(output_dir, "site_frequency_bysex.rtf"))
 
-write.csv(site_sex_wide, paste0(output_dir, "site_sex_freq_wide.csv"))
+write.csv(site_sex_wide, paste0(output_dir, "site_frequency_bysex.csv"))
 
 rm(site_sex_wide)
 
@@ -230,9 +230,9 @@ sx_sex_wide |>
   group_by(symptom_group) |>
   select(-c(n_1, n_2, prop_1,prop_2)) |>
   gt() |>
-  gtsave(paste0(output_dir, "sx_sex_freq_wide.rtf"))
+  gtsave(paste0(output_dir, "symptom_frequency_bysex.rtf"))
 
-write.csv(sx_sex_wide, paste0(output_dir, "sx_sex_freq_wide.csv"))
+write.csv(sx_sex_wide, paste0(output_dir, "symptom_frequency_bysex.csv"))
 
 rm(sx_sex_wide)
 
@@ -259,7 +259,7 @@ freq_tables$sx_site |>
              "n_N/K" = "n",
              "prop_N/K" = "%",
              "cancer_site_desc" = "Cancer Site") |>
-  gtsave(paste0(output_dir, "missing_sx_site.rtf"))
+  gtsave(paste0(output_dir, "missing_symptom_by_site.rtf"))
 
 ## Missing Symptom overall ----
 freq_tables$sx_freq |>
@@ -273,7 +273,7 @@ freq_tables$sx_freq |>
 
 
 # Tables - Cumulative % of Cancer Sites ---- 
-cumfreq_site <-
+cumulative_freq_site <-
   data |> 
   group_by(cancer_site_desc) |> 
   summarise(freq = n()) |> 
@@ -284,11 +284,11 @@ cumfreq_site <-
   left_join(cancer_codelist_data) |>
   tibble::rownames_to_column(var = "row")
 
-cumfreq_site |> 
+cumulative_freq_site |> 
   gt() |> 
-  gtsave(paste0(output_dir, "cumfreq_site.rtf"))
+  gtsave(paste0(output_dir, "cumulative_freq_site.rtf"))
 
-write.csv(cumfreq_site |> select(-row), paste0(output_dir, "cumfreq_site.csv"))
+write.csv(cumulative_freq_site |> select(-row), paste0(output_dir, "cumulative_freq_site.csv"))
 
 
 # Tables ----
